@@ -7,4 +7,4 @@ at t = 0
 3. Flot the wave function.
 
 ### Problem 2
-Find the matrix 5*5 of $$e^(\frac{-i J_y \beta}{\hbar})$$ for J = 2.
+Find the 5x5 matrix of $$e^{\frac{-i J_y \beta}{\hbar}}$$ for J=2.
