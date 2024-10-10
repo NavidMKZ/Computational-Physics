@@ -8,3 +8,6 @@ at t = 0
 
 ### Problem 2
 Find the 5x5 matrix of $$e^{\frac{-i J_y \beta}{\hbar}}$$ for J=2.
+
+### Problem 3
+Find the matrix of $$d_{mm'} ^J=2 (\beta)$$ by $$e^{\frac{-i J_y \beta}{\hbar}}$$.
